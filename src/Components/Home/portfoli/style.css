@@ -1,0 +1,36 @@
+.portfoli-section{
+    /* background-image: url(../../../assets/potfoli1.jpg); */
+    background-position: center;
+    position: relative;
+    background-repeat: no-repeat;
+}
+.wave{
+    position: absolute;
+    bottom: -1px;
+    width: 100%;
+}
+.overlay{
+    background: rgba(147, 88, 189,.8);
+    opacity: 1;
+    padding-bottom: 250px !important;
+}
+.port-desc{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+@media screen and (max-width:576px){
+    .port-desc{
+        width: 85% !important;
+    }
+}
+.port-btn{
+    margin:30px auto;
+    border: none;
+    transition: all .3s linear !important;
+}
+.port-btn:hover{
+    border: none;
+    transform: translateY(-8px) ;
+    background: #ccc !important;
+}

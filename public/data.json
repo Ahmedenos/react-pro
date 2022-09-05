@@ -1,0 +1,124 @@
+{
+    "services": [
+        {
+            "id":1,
+            "icon":"fa-solid fa-gem",
+            "title":"Digital Design",
+            "body":"Some quick example text to build on the card title and make up the bulk of the card's content. Moltin gives you the platform."
+        },
+        {
+            "id":2,
+            "icon":"fa-solid fa-dollar-sign",
+            "title":"Unlimited Colors",
+            "body":"Credibly brand standards compliant users without extensible services. Anibh euismod tincidunt ut laoreet."
+        },
+        {
+            "id":3,
+            "icon":"fa-brands fa-dribbble",
+            "title":"Strategy Solutions",
+            "body":"Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean necessary regelialia."
+        },
+        {
+            "id":4,
+            "icon":"fa-solid fa-dumpster-fire",
+            "title":"Awesome Support",
+            "body":"It is a paradisematic country, in which roasted parts of sentences fly into your mouth leave for the far World."
+        },
+        {
+            "id":5,
+            "icon":"fa-solid fa-compass-drafting",
+            "title":"Truly Multipurpose",
+            "body":"Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic."
+        },
+        {
+            "id":6,
+            "icon":"fa-solid fa-cannabis",
+            "title":"Easy to customize",
+            "body":"Question Marks and devious Semikoli, but the Little Blind Text didn’t listen. She packed her seven versalia."
+        }
+    ],
+    "pricing":[
+        {
+            "id":1,
+            "name":"Economy",
+            "price":"$9.90",
+            "title":"Billing Per MONTH",
+            "bandwidth":" 1GB",
+            "Onlinespace":"50GB",
+            "Support":"No",
+            "Domain":"1",
+            "HiddenFees":"No"
+        },
+        {
+            "id":2,
+            "name":"DELUXE",
+            "price":"$9.90",
+            "title":"Billing Per Mo",
+            "bandwidth":" 10GB",
+            "Onlinespace":" 500MB",
+            "Support":"No",
+            "Domain":"10",
+            "HiddenFees":"No"
+        },
+        {
+            "id":3,
+            "name":"ULTIMATE",
+            "price":"$29.90",
+            "title":"Billing Per Mo",
+            "bandwidth":" 100GB",
+            "Onlinespace":"2GB",
+            "Support":"Yes",
+            "Domain":" Unlimited",
+            "HiddenFees":"No"
+        }
+    ],
+    "people":[
+        { 
+              "id":1,
+            "image":"./images/member1.jpg",
+            "name":"Frank Johnson",
+            "job":"CEO"
+        },
+        {
+            "id":2,
+            "image":"./images/member2.jpg",
+            "name":"Elaine Stclair",
+            "job":"DESIGNER"
+        },
+        {
+            "id":3,
+            "image":"./images/member3.jpg",
+            "name":"Wanda Arthur",
+            "job":"DEVELOPER"
+        },
+        {
+            "id":4,
+            "image":"./images/member4.jpg",
+            "name":"Joshua Stemple",
+            "job":"MANAGER"
+        }
+    ],
+    "blog":[
+        {
+            "id":1,
+            "image":"./images/blog1.jpg",
+            "title":"UI & UX Design",
+            "head":"Doing a cross country road trip",
+            "desc":"She packed her seven versalia, put her initial into the belt and made herself on the way.."
+        },
+        {
+            "id":2,
+            "image":"./images/blog2.jpg",
+            "title":"Digital Marketing",
+            "head":"New exhibition at our Museum",
+            "desc":"Pityful a rethoric question ran over her cheek, then she continued her way."
+        },
+        {
+            "id":3,
+            "image":"./images/blog3.jpg",
+            "title":"Travelling",
+            "head":"Why are so many people..",
+            "desc":"Far far away, behind the word mountains, far from the countries Vokalia and Consonantia."
+        }
+    ]
+}

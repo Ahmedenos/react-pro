@@ -1,0 +1,14 @@
+.team-jop{
+    font-size: 13px;
+    color: #a8aeb4;
+}
+.team-box{
+    border-bottom: 1px solid #ecf0f5;
+    transition: all .3s ease-in-out;
+}
+.team-box:hover{
+    transform: translateY(-12px);
+}
+.my-row{
+    width: 70% !important;
+}

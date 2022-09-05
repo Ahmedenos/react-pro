@@ -1,0 +1,32 @@
+.blog-box{
+    transition: all .3s ease-in-out;
+}
+.blog-box:hover{
+    transform: translateY(-12px);
+}
+.blog-head{
+    font-size: 15px;
+    font-weight: 600;
+}
+.blog-title a{
+    color: #272a33;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 600;
+    transition: all .5s;
+}
+.blog-title a:hover{
+    color: #fb3e3e;
+}
+.bolg-desc{
+    font-size: 14px;
+    font-weight: 600;
+}
+.read-link{
+    color: #fb3e3e;
+    text-decoration: none;
+    transition: all .5s;
+}
+.read-link:hover{
+    color: #272a33;
+}

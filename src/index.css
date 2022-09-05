@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  scroll-behavior: smooth;
+}
+img{
+  max-width: 100%;
+}
+.route-link{
+  align-self: center;
+  text-decoration: none;
+}
+@media screen and (max-width:991px){
+  .route-link{
+    align-self: flex-start;
+  }
+}

@@ -1,0 +1,38 @@
+.team-section{
+    margin: 80px auto;
+}
+.team img{
+    margin: -40px auto;
+    height: 68px;
+    width: 68px;
+    padding: .25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+.team-desc{
+    border: 1px solid #ecf0f5;
+    border-radius: 8px;
+    transition: all .3s ease-in-out;
+    box-shadow: 0 0 1.25rem rgba(108,118,134,.1) !important;
+ }
+ .team-desc p{
+     font-size: 15px;
+     padding: 60px 25px 30px;
+     line-height: 24px;
+     font-style: italic;
+}
+.team h5 {
+    font-size: 18px;
+    padding: 20px;
+}
+.team{
+    transition: all .3s ease-in-out;
+}
+.team:hover{
+    transform: translateY(-10px);
+}
+@media screen and (max-width:991px){
+    .team{
+        margin-top: 40px !important;
+    }
+}

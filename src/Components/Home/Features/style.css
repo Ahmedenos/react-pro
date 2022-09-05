@@ -1,0 +1,22 @@
+
+.Features-section{
+    background: #f8f9fa !important;
+    padding-top: 80px;
+    padding-bottom: 60px;
+}
+.ul-feature li{
+    padding: 8px 0;
+    font-size: 14.5px;
+}
+ul li::marker{
+    color:rgb(251, 62, 62);
+}
+.feature-btn{
+    background:rgb(251, 62, 62) !important;
+    color: #fff !important;
+    font-size: 14.5px;
+    transition: all .3s linear !important;
+}
+.feature-btn:hover{
+    transform: translateY(-8px);
+}
